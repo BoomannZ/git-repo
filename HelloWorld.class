@@ -3,5 +3,6 @@ import java.lang.*;
 class HelloWorld{
 
 System.out.println("");
+System.out.println("Hi world!");
 
 }
