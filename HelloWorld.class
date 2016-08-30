@@ -1,5 +1,4 @@
-import java.lang.*;
-
+import java.lang.*;
 class HelloWorld{
 
 System.out.println("");
